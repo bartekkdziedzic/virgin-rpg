@@ -1,2 +1,43 @@
 A class conpsect:
 https://app.diagrams.net/?src=about#G1zGRNFzlfFo2SNl8wY0W9CwI4ouVnFwu5
+
+
+
+1. Functionality:
+
+- Stats modifier
+- Attack
+
+======================
+- Shop
+- Levels
+
+
+2. Domina Model:
+
+- Character
+	- Name
+
+	- Stats
+		- Magica
+		- Power
+		- Defence
+		- Health
+		- Resistance
+			-Restype
+- Player (inheritates Character)
+	+ Equipment
+
+
+- Equipment
+	- Sword
+	- Armor
+	- Artifact
+
+
+
+
+======
+- Equipment Rarity
+- Potions
+
