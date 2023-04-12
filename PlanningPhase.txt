@@ -10,8 +10,10 @@ https://app.diagrams.net/?src=about#G1zGRNFzlfFo2SNl8wY0W9CwI4ouVnFwu5
 
 ======================
 - Shop
+	- Basic slots for equipment
+		- randomized stats based on progress
 - Levels
-
+- Passive Diffculty modfifier (balancing exp required for level up)
 
 2. Domina Model:
 
@@ -21,6 +23,7 @@ https://app.diagrams.net/?src=about#G1zGRNFzlfFo2SNl8wY0W9CwI4ouVnFwu5
 	- Stats
 		- Magica
 		- Power
+		- Crit Chance
 		- Defence
 		- Health
 		- Resistance
